@@ -4,7 +4,7 @@ import "fmt"
 
 const (
 	Pi    = 3.14
-	World = "世界"
+	World = "India"
 	Truth = true
 )
 
